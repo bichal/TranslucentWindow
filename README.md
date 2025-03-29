@@ -14,6 +14,8 @@ on supported systems. It seamlessly integrates with **Windows' Mica effect**, gi
 - **Optimized Performance** – Lightweight and efficient, with minimal impact on FPS.
 - **Fabric API & Java 21 Support** – Fully compatible with the latest Minecraft versions.
 
+![Captura de pantalla 2025-03-29 140111](https://github.com/user-attachments/assets/ca56ed2c-10dc-4d2c-b987-371c6921b790)
+
 ## <center>📥 Installation</center>
 
 [![compactCurseForge](https://github.com/user-attachments/assets/c10b7d18-1719-4010-a8a8-88cc6d0b11d3)](https://www.curseforge.com/minecraft/mc-mods)
