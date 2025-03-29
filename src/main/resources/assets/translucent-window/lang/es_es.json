@@ -1,0 +1,15 @@
+{
+  "translucent_window.config.title": "Ajustes de Translucent Window Settings",
+  "translucent_window.config.effect_type": "Tipo de Efecto",
+  "translucent_window.config.effect_type.none": "Ninguno (Opaco)",
+  "translucent_window.config.effect_type.mica": "Mica (Translucido)",
+  "translucent_window.config.effect_type.acrylic": "Acrílico (Desenfoque)",
+  "translucent_window.config.blur_intensity": "Intensidad de desenfoque: %d%%",
+  "translucent_window.config.affect_background": "Afectar al fondo: %s",
+  "translucent_window.config.title_bar_height": "Altura de Barra de Título: %d",
+  "translucent_window.config.custom_text": "Texto Personalizado",
+  "translucent_window.config.window_title": "Titulo de Ventana",
+  "translucent_window.config.icon_path": "Ruta de Icono",
+  "key.translucent_window.config": "Abrir Translucent Window Settings",
+  "category.translucent_window": "Translucent Window"
+}

@@ -1,0 +1,15 @@
+{
+  "translucent_window.config.title": "Translucent Window Settings",
+  "translucent_window.config.effect_type": "Effect Type",
+  "translucent_window.config.effect_type.none": "None (Opaque)",
+  "translucent_window.config.effect_type.mica": "Mica (Translucent)",
+  "translucent_window.config.effect_type.acrylic": "Acrylic (Blur)",
+  "translucent_window.config.blur_intensity": "Blur Intensity: %d%%",
+  "translucent_window.config.affect_background": "Affect Background: %s",
+  "translucent_window.config.title_bar_height": "Title Bar Height: %d",
+  "translucent_window.config.custom_text": "Custom Text",
+  "translucent_window.config.window_title": "Window Title",
+  "translucent_window.config.icon_path": "Icon Path",
+  "key.translucent_window.config": "Open Translucent Window Settings",
+  "category.translucent_window": "Translucent Window"
+}
