@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "translucent-window",
+  "version": "${version}",
+  "name": "Translucent Window",
+  "description": "",
+  "authors": [
+    "Bichal"
+  ],
+  "contact": {
+    "sources": "https://github.com/bichal/TranslucentWindow"
+  },
+  "license": "CC-BY-NC-4.0",
+  "icon": "assets/translucent-window/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "net.bichal.translucent_window.TranslucentWindowClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.10",
+    "minecraft": "${minecraft_version}",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
