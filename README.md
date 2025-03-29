@@ -43,7 +43,7 @@ on supported systems. It seamlessly integrates with **Windows' Mica effect**, gi
 
 This mod is licensed under **CC-BY-NC-4.0**.
 
-[![compactIssue](https://github.com/user-attachments/assets/a87a0ea4-7b99-48ee-8bac-3b3a4718d539)](https://github.com/bichal/BetterPlayerLocatorBar/issues)
+[![compactIssue](https://github.com/user-attachments/assets/a87a0ea4-7b99-48ee-8bac-3b3a4718d539)](https://github.com/bichal/TranslucentWindow/issues)
 [![compactCoffe](https://github.com/user-attachments/assets/15390713-4abf-4e6f-97a4-83790125825e)](https://buymeacoffee.com/bichal)
 [![compactKo-Fi](https://github.com/user-attachments/assets/af481bd2-d547-466e-be01-ce898ff523e0)](https://ko-fi.com/bichal)
 
